@@ -18,6 +18,7 @@ def main():
 	checkUpdate()
 	
 	print("This is a line")
+	print("This is a new line that i added")
 	
 	
 main()
